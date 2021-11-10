@@ -41,7 +41,7 @@ class App extends Component {
           <Users loading={this.state.loading} users={this.state.users_data} />
         </div>
         <footer className="footer">
-          <h1>Created By <a href="https://www.linkedin.com/in/shivamkush-27/" target="_blank">Shivam Kushwaha</a> | All Rights Reserved! </h1>
+          <h1>Created By <a href="https://www.linkedin.com/in/dharshana-ramesh-2aa0671ab/" target="_blank">Dharshana Ramesh</a> | All Rights Reserved! </h1>
         </footer>
       </>
     );
